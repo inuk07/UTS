@@ -1,0 +1,24 @@
+Nama Wilayah : Dropdown berisi : DKI Jakarta, Jawa Barat, Banten, Jawa
+Tengah
+Jumlah Positif
+Jumlah Dirawat
+Jumlah Sembuh
+Jumlah Meninggal
+Nama Operator
+NIM Mahasiswa
+
+DKI jakarta
+Positif    Dirawat     Sembuh     Meninggal
+411.157    3.537       397.349      6.788
+
+Banten
+Positif    Dirawat     Sembuh     Meninggal
+47.491     1.478       44.800      1.213
+
+Jawa Barat
+Positif    Dirawat     Sembuh     Meninggal
+282.631    30.626      248.247      3.758
+
+Jawa Tengah
+Positif    Dirawat     Sembuh      Meninggal
+187.704    6.006       169.832       11.866
